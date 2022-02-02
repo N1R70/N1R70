@@ -20,13 +20,13 @@
 
 <br/>
 
-<a href="https://github.com/sonic-rouge">
+<a href="https://github.com/N1R70">
 
 
 ### Quick Stats:
 
-<a href="https://github.com/Sonic-rouge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sonic-rouge&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Vighnesh's github stats"/>
+<a href="https://github.com/N1R70">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=N1R70&show_icons=true&theme=tokyonight&count_private=true&line_height=33" alt="Vighnesh's github stats"/>
 </a>
 
 <div align="center">
